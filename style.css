@@ -512,6 +512,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    margin: 15px; /* ajout margin dans input */
 }
 
 .scrollToTop {
@@ -523,6 +524,7 @@ button {
     opacity: 0;
     z-index: 500;
     transition: all .3s ease-in-out;
+    
 }
 
 .scrollToTop span {
