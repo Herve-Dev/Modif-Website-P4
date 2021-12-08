@@ -746,6 +746,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     width: 100%;  /*Ajout de width 100% */
+    height: 100%; /* Ajout de heigt 100% */
 }
 
 .portfolio-row {
