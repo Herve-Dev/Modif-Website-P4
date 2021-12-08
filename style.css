@@ -740,7 +740,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000!important; /* Changement de couleur pour validation du ratio de contraste anciennement blanc */
 }
 
 .portfolio-thumb {
