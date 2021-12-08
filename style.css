@@ -512,7 +512,6 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    margin: 15px; /* ajout margin dans input */
 }
 
 .scrollToTop {
@@ -783,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #333333!important; /*changement de couleur pour passé le AA en gardant la charte couleur */
+    color: #FFFFFF!important; 
 }
 
 .btn-atomic-tangerine {
